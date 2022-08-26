@@ -1,0 +1,47 @@
+.nav{
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+}
+.nav ul{
+    display: flex;
+}
+.nav li{
+    color: white;
+    list-style: none;
+    padding-left: 20px;
+}
+.nav li:hover{
+    color: grey;
+    font-size: 15px;
+}
+.nav h2{
+    color: white;
+}
+a{
+    text-decoration: none;
+}
+.nav_2 input{
+    text-align: center;
+    width: 700px;
+    height: 30px;
+    outline: none;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    padding-left: 20px;
+    font-size: 13px;
+}
+.nav_2 button{
+    height: 35px;
+    outline: none;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    padding-left: 20px;
+    font-size: 13px;
+}
+.nav_2{
+    text-align: center;
+    padding-bottom: 20px;
+}

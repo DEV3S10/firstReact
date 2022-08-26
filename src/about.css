@@ -1,0 +1,21 @@
+.about{
+    display: flex;
+    align-items: center;
+    margin-bottom: 40px;
+}
+.about .about_text{
+    padding-left: 300px;
+    display: block;
+}
+.about .about_text p{
+    color: blue;
+}
+.about .about_text h1{
+    text-align: center;
+    color: #4a2d9f;
+}
+.about .about_text img{
+    padding-right: 15px;
+    width: 30px;
+    height: 30px;
+}

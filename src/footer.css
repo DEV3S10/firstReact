@@ -1,0 +1,26 @@
+.footer_1{
+    margin-top: 80px;
+    display: flex;
+    justify-content: space-between;
+}
+.footer_1 p{
+    color: black;
+}
+.footer_1 p:hover{
+    color: grey;
+    font-size: 15px;
+}
+.footer_2 img{
+    width: 10px;
+    height: 10px;
+}
+.footer_2{
+    margin-top: 80px;
+    display: flex;
+    justify-content: space-between;
+}
+.map img{
+    padding-top: 50px;
+    margin-top: 80px;
+    width: 1200px;
+}

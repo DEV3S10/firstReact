@@ -1,0 +1,19 @@
+.contact{
+    display: flex;
+    align-items: center;
+    margin-bottom: 40px;
+}
+.contact .contact_text{
+    margin-left: 400px;
+}
+.contact .contact_text .seti img{
+    padding-top: 20px;
+    padding-right: 15px;
+    width: 30px;
+    height: 30px;
+}
+.contact .contact_text img{
+    padding-right: 5px;
+    width: 20px;
+    height: 20px;
+}

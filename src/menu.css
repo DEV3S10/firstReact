@@ -1,0 +1,30 @@
+.category button{
+    display: block;
+    padding-top: 10px;
+    margin-bottom: 15px;
+    border: black;
+    color: white;
+    background: #7255b2;
+}
+.category button:hover{
+    border: black;
+    color: #7255b2;
+    background: white;
+}
+.center{
+    display: flex;
+    align-items: center;
+    margin-bottom: 40px;
+}
+
+.center .slide img{
+    width: 500px;
+    height: 400px;
+}
+.center .menu_text .menu_text_2{
+    margin-left: 400px;
+}
+.center .menu_text .menu_text_2 p{
+    margin-right: 300px;
+    font-size: 20px;
+}

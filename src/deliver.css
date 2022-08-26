@@ -1,0 +1,26 @@
+.img img{
+    padding-top: 120px;
+    width: 500px;
+    height: 500px;
+}
+.deliver{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 40px;
+    padding-bottom: 50px;
+}
+.deliver_text p{
+    color: #fffacd;
+}
+.deliver_text h2{
+    color: black;
+}
+.deliver_text li{
+    color: #fffacd;
+    list-style: none;
+}
+.deliver_text li:hover{
+    color: #d8bfd8;
+    font-size: 25px;
+}
